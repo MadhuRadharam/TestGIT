@@ -3,3 +3,4 @@ Now we are learning git fetch.
 Now we are learning git pull.
      -- git pull = git fetch + git merge
 Trying to understand
+Creating merge conflict scenario.
