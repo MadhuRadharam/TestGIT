@@ -1,2 +1,4 @@
 This is an intro to GIT learning.
 Now we are learning git fetch.
+Now we are learning git pull.
+     -- git pull = git fetch + git merge
