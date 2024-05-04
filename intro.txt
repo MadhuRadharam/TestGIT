@@ -1,0 +1,2 @@
+This is an intro to GIT learning.
+Now we are learning git fetch.
